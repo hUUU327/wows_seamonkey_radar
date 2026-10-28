@@ -72,5 +72,8 @@ build.bat
 
 ## 许可
 
-[MIT](LICENSE)。`local/assets/fonts` 与 `local/assets/ships.json` 取自游戏客户端，版权归 Wargaming 所有，
+本仓库的代码以 [Unlicense](LICENSE) 发布：放弃全部版权，进入公有领域，可任意使用、修改、分发、商用，
+不要求署名，也不提供任何担保。
+
+`local/assets/fonts` 与 `local/assets/ships.json` 取自游戏客户端，版权归 Wargaming 所有，
 仅用于让界面与游戏保持一致。
