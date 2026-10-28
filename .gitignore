@@ -1,0 +1,10 @@
+# The Python virtual environment, and what the build and the program write
+.venv/
+__pycache__/
+local/build/
+local/dist/
+local/data/
+local/release/
+
+# the start shortcut points to an absolute path on this PC
+*.lnk

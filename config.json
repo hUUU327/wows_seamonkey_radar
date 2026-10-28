@@ -1,0 +1,13 @@
+{
+  "game_dir": null,
+  "trigger": {
+    "window_title": "World of Warships",
+    "game_exe": "WorldOfWarships"
+  },
+  "live_replay": {
+    "folder": null
+  },
+  "overlay": {
+    "capturable": true
+  }
+}

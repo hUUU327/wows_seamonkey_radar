@@ -1,0 +1,6 @@
+# keep Windows line endings for batch files whatever the git settings
+*.bat text eol=crlf
+*.png binary
+*.jpg binary
+*.ico binary
+*.ttf binary

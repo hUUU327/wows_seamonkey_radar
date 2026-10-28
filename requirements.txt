@@ -1,0 +1,11 @@
+# versions known to work (Python 3.12, Windows 10/11 64-bit)
+numpy==2.5.3
+opencv-python==5.0.0.93
+dxcam==0.3.0
+PyQt6==6.11.0
+PyQt6-Qt6==6.11.2
+rapidocr-onnxruntime==1.4.4
+onnxruntime==1.30.0
+pycryptodome==3.23.0
+# build time: build.bat
+pyinstaller==6.22.3
